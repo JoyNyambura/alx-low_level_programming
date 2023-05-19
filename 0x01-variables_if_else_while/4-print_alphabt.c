@@ -1,15 +1,14 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description - 'Don't print e and q'
- * Return: Always 0 (success)
+ * Description - 'print alphabet in lowercase except q and e'
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
 	char ch = 'a';
 
-	while
-		(ch <= 'z');
+	while (ch <= 'z')
 	{
 		if (ch != 'e' && ch != 'q')
 		{
@@ -19,5 +18,5 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
 }
+
