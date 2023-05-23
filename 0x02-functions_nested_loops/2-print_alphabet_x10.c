@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * main - Entry point
- * Description: 'Print alphabets 10x'
- * Return: Always 0 (success)
+ * print_alphabet_x10 'Print alphabets 10x'
  */
 void print_alphabet_x10(void)
 {
