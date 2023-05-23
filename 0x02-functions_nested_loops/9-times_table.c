@@ -2,7 +2,7 @@
 /**
  * times_table - prints the 9 times table starts with o
  */
-void times_table(void);
+void times_table(void)
 {
 	int i, j, k;
 
