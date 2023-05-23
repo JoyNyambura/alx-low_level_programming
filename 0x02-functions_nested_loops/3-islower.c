@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * Description: 'Print c lowercase'
- * Return: Always 0 (success)
+ * Return: 1 if char is lowercase, otherwise 0
  */
 int _islower(int c)
 {
