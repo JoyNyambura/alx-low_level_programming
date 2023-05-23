@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * main - Entry point
- * Description: 'Print lowercase alphabets'
- * Return: Always 0 (success)
+ * print_alphabet -  'Print lowercase alphabets'
+ *
  */
 void print_alphabet(void)
 {
