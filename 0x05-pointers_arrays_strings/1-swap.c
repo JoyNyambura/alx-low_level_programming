@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * swap-int - swap the contents of a and b
+ * swap_int - swap the contents of a and b
  * @a: content to swap with b
  * @b: content to be swapped with a
  *
