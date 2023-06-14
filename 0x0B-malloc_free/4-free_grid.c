@@ -5,7 +5,7 @@
  *free_grid - Frees the space allocated to he grid
  *@grid: 2D array
  *@height: height
- *Retru: void
+ *Return: void
  */
 void free_grid(int **grid, int height)
 {
